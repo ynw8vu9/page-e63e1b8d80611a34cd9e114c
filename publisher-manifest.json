@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "0ddeea11f5202848231b294a",
+  "owner": "ynw8vu9",
+  "repo": "page-e63e1b8d80611a34cd9e114c",
+  "title": "Exflux",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e63e1b8d80611a34cd9e114c",
+      "a": "Exflux",
+      "b": "ClashX官方下载",
+      "entity": "Exflux",
+      "brand": "Exflux",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b2a420129860360e45aed7916c089977977abe8e80e9be82521411d5bd344e42",
+      "content": {
+        "primary_entity": "Exflux",
+        "keyword1": "Exflux",
+        "keyword2": "ClashX官方下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "Mac 用户可选 ClashX，Windows 可选 Clash Verge，iOS 与 Android 各有适配客户端。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量挑选套餐，再按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺",
+          "AI_DESCRIPTION": "，Exflux 面向跨境访问场景提供多档海外加速套餐，基础版适合轻量浏览，旗舰版覆盖流媒体与游戏加速，团队版面向多设备协作。订阅可按月或按年支付，按年付更省。客户端覆盖桌面与移动端，按设备选择对应版本后导入订阅地址即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数到线路类型，Exflux 套餐覆盖不同使用强度。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合日常浏览与轻度影音。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持企业定制路由与专属服务。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "多设备同时在线",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步走完 Exflux 使用流程。",
+          "AI_GUIDE_TITLE": "三步开始加速",
+          "AI_HERO_INTRO": "Exflux 提供多档海外加速套餐，覆盖桌面与移动客户端。根据设备数量与月流量选择基础版、旗舰版或团队版，再按客户端文档配置订阅地址，即可在常用设备上开始使用。",
+          "AI_HERO_SUBTITLE": "多档海外加速，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "支持月付与年付两种周期",
+          "AI_HIGHLIGHT_3": "桌面与移动端客户端可选配",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别仅需 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "按设备数量与月流量需求，在基础版、旗舰版、团队版中锁定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备类型与同时在线数量，确认满足当前使用环境。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅地址，保存后按文档指引完成节点选择与连接。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "Exflux 海外加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机与笔记本轻度使用，刷网页、看视频基本够用。",
+          "AI_FAQ_ANSWER_2": "旗舰版有 IPLC 专线，延迟更低，适合对游戏加速和原生流媒体解锁有要求的用户，月流量 300GB。",
+          "AI_FAQ_ANSWER_3": "常用客户端有 Clash、Shadowrocket、v2rayN 和 v2rayNG，按设备系统选择对应版本，导入订阅后即可使用。",
+          "AI_FAQ_ANSWER_4": "同时在线设备数按套餐区分，基础版 3 台、旗舰版 5 台、团队版 20 台，超出后新设备可能无法连接。",
+          "AI_FAQ_ANSWER_5": "月付按标价，年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么用？",
+          "AI_FAQ_QUESTION_3": "各设备该装哪个客户端？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数怎么算？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选？",
+          "AI_FAQ_TITLE": "Exflux 常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3b723b20cf18fcc91342a17679d195fff95d9b14682e951998315d485c80f648",
+    "sitemap.xml": "40127caaefdcfb0e73f93a23b9f995df51dac62a3e22931c3a19ec99f1499394",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "3f42cd5759382435a057d6f01fcc6a8aa8df7e6675b620bb7bf0022df018738d"
+}
